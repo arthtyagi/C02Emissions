@@ -8,3 +8,5 @@ There are two models in this repository:
 
 ## 1. Single Linear Regression
 ## 2. Multiple Linear Regression
+
+The dataset used is for Canadian Cars.
