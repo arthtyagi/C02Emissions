@@ -6,7 +6,7 @@ Feel free to change the code to suit your needs or make the model predict CO2 em
 
 There are two models in this repository:
 
-## 1. [Single Linear Regression] !https://github.com/arthtyagi/C02Emissions/tree/master/Simple_Linear_Regression
+## 1. Single Linear Regression https://github.com/arthtyagi/C02Emissions/tree/master/Simple_Linear_Regression
 ## 2. Multiple Linear Regression
 
 The dataset used is for Canadian Cars.
